@@ -1,3 +1,3 @@
 # domo cup
 
-![Domo Cup](https://i.redd.it/pvy1onqm30ma1.png)](https://i.redd.it/pvy1onqm30ma1.png)
+![Domo Cup](https://i.redd.it/pvy1onqm30ma1.png)
