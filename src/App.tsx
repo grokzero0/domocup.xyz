@@ -30,7 +30,7 @@ function App() {
 
     setTimeout(() => {
       setChatHistory((chat) => chat.filter((c) => c.message !== "thinking..."));
-      if (m.includes("domo cup")) {
+      if (m.toLowerCase().replace(/\s/g, '').includes("domocup")) {
         setChatHistory((c) => [
           ...c,
           { message: "ok with extra sugar", from: "domocup" },
